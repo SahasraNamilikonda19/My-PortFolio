@@ -6,28 +6,28 @@ const certifications = [
     title: "Programming in Java",
     issuer: "NPTEL",
     date: "2025",
-    image: "/certificates/java.png"
+    image: "/My-PortFolio/certificates/java.png"
   },
   {
     id: 2,
     title: "The Joy of Computing in Ptyhon",
     issuer: "NPTEL",
     date: "2024",
-    image: "/certificates/python.png"
+    image: "/My-PortFolio/certificates/python.png"
   },
   {
     id: 3,
     title: "Smart Coder",
     issuer: "Smart Interviews",
     date: "2024",
-    image: "/certificates/SI.png"
+    image: "/My-PortFolio/certificates/SI.png"
   },
   {
     id: 4,
     title: "HTML",
     issuer: "Scaler",
     date: "2024",
-    image: "/certificates/html-scaler.png"
+    image: "/My-PortFolio/certificates/html-scaler.png"
   },
 ]
 
