@@ -16,7 +16,7 @@ function Contact() {
 
         <div style={{ display: "flex", flexDirection: "column", gap: "16px", marginBottom: "60px" }}>
   <a href="mailto:namilikondasahasra@gmail.com" style={{ backgroundColor: "#f5a623", color: "#0e0e0e", padding: "16px 36px", fontSize: "14px", fontFamily: "DM Mono, monospace", textDecoration: "none", fontWeight: "500", letterSpacing: "1px", display: "inline-block", width: "fit-content" }}>
-    Send Me an Email →
+   namilikondasahasra@gmail.com
   </a>
 </div>
 
