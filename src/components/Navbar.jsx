@@ -23,7 +23,7 @@ function Navbar() {
         ))}
       </ul>
 
-      <a href="/My-PortFolio/public/FINALRESUME.pdf" style={{ border: "1px solid #f5a623", color: "#f5a623", fontSize: "13px", padding: "8px 16px", textDecoration: "none" }}>
+      <a href="/My-PortFolio/FINALRESUME.pdf" target="_blank" rel="noreferrer" style={{ border: "1px solid #f5a623", color: "#f5a623", fontSize: "13px", padding: "8px 16px", textDecoration: "none" }}>
         Resume ↗
       </a>
 
